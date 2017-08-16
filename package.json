@@ -1,0 +1,40 @@
+{
+  "name": "react-hacker-puzzle",
+  "version": "1.0.0",
+  "private": true,
+  "license": "see LICENSE file",
+  "description": "A hacker puzzle based in React.",
+  "main": "src/index.js",
+  "dependencies": {
+    "history": "^4.6.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-router": "^4.1.2",
+    "react-router-dom": "^4.1.2",
+    "react-scripts": "1.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradcornford/React-Hacker-Puzzle"
+  },
+  "keywords": [
+    "react",
+    "hacker",
+    "puzzle"
+  ],
+  "author": "Bradley Cornford",
+  "bugs": {
+    "url": "https://github.com/bradcornford/React-Hacker-Puzzle/issues"
+  },
+  "homepage": "https://github.com/bradcornford/React-Hacker-Puzzle",
+  "engines": {
+    "node": "0.12.x"
+  }
+}
